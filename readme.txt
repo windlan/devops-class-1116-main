@@ -10,3 +10,6 @@ https://github.com/labu8712/devops-class-1116
 https://github.com/windlan/devops-class-1116-main
 
 
+
+成功的話:
+https://windlan.github.io/devops-class-1116-main/#/
